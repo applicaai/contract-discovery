@@ -2,7 +2,7 @@
 
 This repository contains data and additional information regarding the paper: Borchmann, Łukasz; Wiśniewski, Dawid; Gretkowski, Andrzej; Kosmala, Izabela; Jurkiewicz, Dawid; Szałkiewicz, Łukasz; Pałka, Gabriela; Kaczmarek, Karol; Kaliska, Agnieszka; Graliński, Filip. Contract Discovery: Dataset and a Few-Shot Semantic Retrieval Challenge with Competitive Baselines (to appear in Findings of EMNLP).
 
-[[arXiv](https://arxiv.org/abs/1911.03911)]
+[[Paper](https://www.aclweb.org/anthology/2020.findings-emnlp.380/), [BibTeX](./2020.findings-emnlp.380.bib)]
 
 ## Semantic Retrieval Challenge
 We proposed a new shared task of semantic retrieval from legal texts. A so-called _contract discovery_ is to be performed – where legal clauses are extracted from documents, given a few examples of similar clauses from other legal acts. The task differs substantially from conventional NLI and shared tasks on legal information extraction (e.g., one has to identify text span instead of a single document, page, or paragraph).
